@@ -4,8 +4,8 @@ Welcome tothe repository of PacMan! This is a college project  That i have made 
 The Game will have:
  - [ ] Gameplay
   - [ ] Game mechanics
-   - [ ] Powerups
-   - [ ] Combo
+  - [ ] Powerups
+  - [ ] Combo
  - [ ] Audio
   - [ ] Custom Music Library (URL and File support)
   - [ ] Master Volume
