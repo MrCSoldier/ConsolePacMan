@@ -12,8 +12,8 @@ The Game will have:
   - [ ] Music Volume
   - [ ] SFX Volume
  - [ ] Fully-fledged Settings manu
-  - [ ] Window Mode
-    - [ ] Minimal
-    - [ ] Normal
-    - [ ] Full screen
+    - [ ] Window Mode
+      - [ ] Minimal
+      - [ ] Normal
+      - [ ] Full screen
   
