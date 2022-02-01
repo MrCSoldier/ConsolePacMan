@@ -3,7 +3,7 @@
 Welcome tothe repository of PacMan! This is a college project  That i have made with C# and C# only.
 The Game will have:
  - [ ] Audio
-    - [ ] Custom Music Library (URL and File support)
+    - [ ] Custom Music Library [URL and File support]
     - [ ] Master Volume
     - [ ] Music Volume
     - [ ] SFX Volume
@@ -12,4 +12,4 @@ The Game will have:
       - [ ] Minimal
       - [ ] Normal
       - [ ] Full screen
- - [ ] Mod and Skin Compatibility
+ - [ ] Mod and Skin Compatibility [Possible. But may not be implemented]
